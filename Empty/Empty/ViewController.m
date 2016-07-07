@@ -20,16 +20,9 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     /**
-     进行测试
+    
+     标签1
      
-     一切可好？
-     
-     再修改
-     
-     在修改
-     
-     会计估计和国际化经过几个环节
-     而且气温气温 去按上
      
      */
     
